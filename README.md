@@ -50,15 +50,8 @@ c) Deverá retornar o resultado e imprimir no console
     npm i nodemoon
 
 ## Autora
-Made with :purple_heart: by Lívia Oliveira
-=======
-# Aula sobre função, lógica de programação e repetição.  🚀
+<p>Made with :purple_heart: by Lívia Oliveira</p>
 
-Na semana 3 do curso da Reprograma de Desenvolvedora Back-end fomos orientadas a realizar um total de 5 exercícios onde utilizamos:
-
-- Funçoes;
-- Escopo;
-- Laços de repetição como for, while e do while.
 
 
 
