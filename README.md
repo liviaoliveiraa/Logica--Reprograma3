@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### {reprograma} week 03 - Lógica de Programação :rocket: 
 ---
 <p align = "center">
@@ -62,7 +61,4 @@ Na semana 3 do curso da Reprograma de Desenvolvedora Back-end fomos orientadas a
 - Laços de repetição como for, while e do while.
 
 
-
-
->>>>>>> 6e47b28784671b262e24833c2340e2bcfa4ef869
 
