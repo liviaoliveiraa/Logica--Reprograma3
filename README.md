@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### {reprograma} week 03 - Lógica de Programação :rocket: 
 ---
 <p align = "center">
@@ -51,4 +52,17 @@ c) Deverá retornar o resultado e imprimir no console
 
 ## Autora
 Made with :purple_heart: by Lívia Oliveira
+=======
+# Aula sobre função, lógica de programação e repetição.  🚀
+
+Na semana 3 do curso da Reprograma de Desenvolvedora Back-end fomos orientadas a realizar um total de 5 exercícios onde utilizamos:
+
+- Funçoes;
+- Escopo;
+- Laços de repetição como for, while e do while.
+
+
+
+
+>>>>>>> 6e47b28784671b262e24833c2340e2bcfa4ef869
 
